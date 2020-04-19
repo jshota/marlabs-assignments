@@ -1,0 +1,17 @@
+I
+
+1. Create a Webpage with Text field & button
+2. Enter the zipcode & click on the button
+3. Display the forecast info with min temp, max temp & city name
+
+https://api.openweathermap.org/data/2.5/weather?zip=60001,us&appid=?????
+
+
+II.
+
+Capture Latitude & Longitude from user & retrive multiple cities (10) forecasting using the following API:
+
+Print only 10 city names
+
+https://api.openweathermap.org/data/2.5/find?lat=55.5&lon=37.5&cnt=10&appid=???
+
